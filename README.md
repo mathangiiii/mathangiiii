@@ -1,7 +1,8 @@
-[![MasterHead](https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif)](https://mathangiiii.io)
 
-<img align="center" alt="Coding" width="200" src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif">
 
+<center>
+  <img alt="Coding" width="200" src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif">
+</center>
 <h1 align="center">Hi 👋, I'm Mathangi Narayanan</h1>
 <h3 align="center">A data-savvy ML/AI aficionado venturing into full-stack development</h3>
 
