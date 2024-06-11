@@ -3,8 +3,8 @@
 <center>
   <img alt="Coding" width="200" src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif">
 </center>
-<h1 align="center">I'm Mathangi Narayanan</h1>
-<img align="center" alt="Coding" width="50" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">
+<h1 align="center">I'm Mathangi Narayanan <img align="center" alt="Coding" width="50" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> </h1>
+
 <h3 align="center">A data-savvy ML/AI aficionado venturing into full-stack development</h3>
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=AW9umw%2bxjkA95w&riu=http%3a%2f%2fmedia.japanpowered.com%2fimages%2ftyping-animation.gif&ehk=RgIlxfvYPCHNqaxobpJdIkNranSMU5xKAQOEJ1Cs3Xo%3d&risl=&pid=ImgRaw&r=0">
