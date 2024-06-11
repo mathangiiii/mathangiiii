@@ -4,7 +4,6 @@
   <img alt="Coding" width="200" src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/source.gif">
 </center>
 <h1 align="center">I'm Mathangi Narayanan</h1>
-
 <img align="right" alt="Coding" width="50" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">
 <h3 align="center">A data-savvy ML/AI aficionado venturing into full-stack development</h3>
 
