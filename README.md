@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathangiiii&label=Profile%20views&color=0e75b6&style=flat" alt="mathangiiii" /> </p>
 
-- 🎓 I’m currently studying **B.Tech CSE(AI & DS)**
+- 🎓 I’m currently pursuing **B.Tech CSE(AI & DS)**
 
 - 🌱 I’m currently learning **full stack development**
 
