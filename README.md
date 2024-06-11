@@ -1,7 +1,7 @@
 
-
+<h1 align="center">
 <img align="center" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
-
+</h1>
 <h1 align="center">I'm Mathangi Narayanan <img align="center" alt="Coding" width="50" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> </h1>
 
 <h3 align="center">A data-savvy ML/AI aficionado venturing into full-stack development</h3>
