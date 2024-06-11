@@ -6,7 +6,7 @@
 
 <h3 align="center">A data-savvy ML/AI aficionado venturing into full-stack development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9f/f2/6a/9ff26a2cd7a1bed24fd0223e1ae85d91.gif">
 
 
 
